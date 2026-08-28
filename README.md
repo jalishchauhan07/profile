@@ -45,7 +45,7 @@ Location: Ahmedabad, Gujarat
 ## 📬 How to Reach Me
 
 [![Gmail](https://img.shields.io/badge/Email-chauhanjalish005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chauhanjalish005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalish-chauhan/)
 ![Location](https://img.shields.io/badge/📍_Ahmedabad%2C_Gujarat-4F46E5?style=flat-square)
 
 <br/>
