@@ -42,4 +42,12 @@ Email: chauhanjalish005@gmail.com
 
 Location: Ahmedabad, Gujarat
 
-![Visitor Count](https://profile-counter.glitch.me/jalishchauhan07/count.svg)
+## 📬 How to Reach Me
+
+[![Gmail](https://img.shields.io/badge/Email-chauhanjalish005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chauhanjalish005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+![Location](https://img.shields.io/badge/📍_Ahmedabad%2C_Gujarat-4F46E5?style=flat-square)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=6366F1&style=flat-square&label=Profile+Views)
