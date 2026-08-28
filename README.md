@@ -50,4 +50,4 @@ Location: Ahmedabad, Gujarat
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=&color=6366F1&style=jalishchauhan07flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=jalishchauhan07&color=6366F1&style=flat-square&label=Profile+Views)
